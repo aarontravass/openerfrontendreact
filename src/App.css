@@ -8,10 +8,11 @@ tr:nth-child(even) {
   background-color: #f2f2f2
 }
 
-tr:hover{
+.hover-row:hover{
   background-color: lightgray;
   cursor:pointer;
 }
+
 
 .card {
   /* Add shadows to create the "card" effect */

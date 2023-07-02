@@ -85,7 +85,7 @@ function TBody({ userList, openedList, setOpenedList }) {
       {(userList as User[]).map((user: User) => {
         return (
           <>
-            <tr onClick={handleExpand} key={user.id} data-key={user.id}>
+            <tr onClick={handleExpand} key={user.id} data-key={user.id} className="hover-row">
               <td className="table-class">{user.id}</td>
               <td className="table-class">{user.name}</td>
               <td className="table-class">{user.email}</td>
