@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "b",
+      "phone": "12345",
+      "address": "abcd",
+      "email": "a@gmail.com",
+      "department": "Finance"
+    },
+    {
+      "name": "d",
+      "phone": "12344tg5",
+      "address": "abcd33f",
+      "email": "huyghb@gmail.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "bppppp",
+      "phone": "12345",
+      "address": "abcd",
+      "email": "loknmlkj@gmail.com",
+      "department": "Technology"
+    },
+    {
+      "name": "bkkk",
+      "phone": "12345",
+      "address": "abcd",
+      "email": "132ewdffe@gmail.com",
+      "department":"Human Resources"
+    },
+    {
+      "name": "pji",
+      "phone": "12345",
+      "address": "abcd",
+      "email": "chb@gmail.com",
+      "department": "Marketing"
+    }
+  ]
+}
